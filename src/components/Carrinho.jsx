@@ -1,0 +1,1 @@
+export default function Carrinho() { return (<div className='p-4'>Carrinho</div>); }

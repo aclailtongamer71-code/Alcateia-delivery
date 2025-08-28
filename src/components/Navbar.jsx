@@ -1,0 +1,1 @@
+export default function Navbar({ toggleAdmin }) { return (<nav className='p-4 bg-blue-600 text-white flex justify-between'><h1>Alcateia Delivery</h1><button onClick={toggleAdmin}>Modo Admin</button></nav>); }

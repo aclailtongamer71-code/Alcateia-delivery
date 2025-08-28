@@ -1,0 +1,1 @@
+export default function Cardapio() { return (<div className='p-4'>Cardápio</div>); }
